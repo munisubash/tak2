@@ -1,0 +1,10 @@
+[00:00:00–00:00:10] Julia (PM, Buynomics): Thanks for joining. Today: sell-in alignment for overlapping promos.
+[00:00:11–00:00:28] Lars (Category Lead, Nordic Snacks): We run BOGOF plus a member coupon the same week. We overship then hit out-of-stocks in high-traffic stores.
+[00:00:29–00:00:43] Mina (Data): Data constraints: weekly sell-out per retailer; partial loyalty flags; shipment data lags by 2 weeks; some gaps [inaudible].
+[00:00:44–00:00:57] Julia: Should we separate loyalty vs non-loyalty in simulations? What KPIs matter most?
+[00:00:58–00:01:10] Lars: Yes, separate. KPIs: incremental units, margin guardrail, and stock risk indicator.
+[00:01:11–00:01:28] Mina: Feature idea: weekly shipment recommendation per retailer with R/A/G warning when stacked discounts breach margin thresholds.
+[00:01:29–00:01:45] Julia: Noted. We’ll ensure PII redaction. For example, emails like lars@nordicsnacks.com and +44 20 7946 0958 should be removed.
+[00:01:46–00:01:59] Lars: We also need a way to mark unplanned events—like stadium promotions—that distort uplift.
+[00:02:00–00:02:17] Mina: Please provide a CSV export with recommended sell-in, confidence, and notes. Bonus: a toggle for loyalty-only view.
+[00:02:18–00:02:30] Julia: Action items: we’ll send a data-mapping template; you’ll share 12 months of promo history with loyalty flags; next call in two weeks.
